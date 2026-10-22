@@ -1,0 +1,1 @@
+https://cmaas-proxy-image.oss-cn-beijing.aliyuncs.com/higress-all-in-one-2.2.5-linux-amd64.tar?Expires=1792685718&OSSAccessKeyId=TMP.3Kw8ecqTM8i9pQcTwYuYueAHvb4URvrHTVz4iNupah2LJkQoZZpzdGQyuHa5U6VoN1PTeMmWNExfit5icmKzFHAPaFXdNT&Signature=pDmNGkD1%2FGQLlg0zK7ve5o9seIM%3D
